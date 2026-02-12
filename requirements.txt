@@ -1,14 +1,11 @@
 streamlit
-python-dotenv
 langchain==0.2.16
-langchain-core==0.2.38
 langchain-community==0.2.16
+langchain-core==0.2.38
 langchain-groq==0.1.9
 langchain-huggingface==0.0.3
 langchain-chroma==0.1.4
 chromadb==0.4.24
 sentence-transformers==2.7.0
-transformers==4.41.2
-tokenizers==0.20.3
-torch --index-url https://download.pytorch.org/whl/cpu
 pypdf
+
