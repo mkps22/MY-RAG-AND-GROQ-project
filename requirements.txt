@@ -1,11 +1,16 @@
-streamlit
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+streamlit==1.54.0
+
 langchain==0.2.16
-langchain-community==0.2.16
 langchain-core==0.2.38
+langchain-community==0.2.16
 langchain-groq==0.1.9
 langchain-huggingface==0.0.3
 langchain-chroma==0.1.4
+
 chromadb==0.4.24
 sentence-transformers==2.7.0
-pypdf
+torch==2.2.2+cpu
 
+pypdf==6.7.0
