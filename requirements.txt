@@ -11,6 +11,6 @@ langchain-chroma==0.1.4
 
 chromadb==0.4.24
 sentence-transformers==2.7.0
-torch==2.2.2+cpu
+torch==2.10.0+cpu
 
 pypdf==6.7.0
