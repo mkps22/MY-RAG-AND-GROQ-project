@@ -20,7 +20,9 @@ from langchain_community.document_loaders import PyPDFLoader
 # Load Environment
 # -------------------------
 
-os.environ['HF_TOKEN'] = os.getenv("HF_TOKEN")
+import os
+hf_token = os.getenv("HF_TOKEN")
+
 
 
 # -------------------------
